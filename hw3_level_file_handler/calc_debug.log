@@ -1,0 +1,5 @@
+INFO | Calculator Logger | 2025-02-14 10:24:19,529 | 12| Arguments: 2+3INFO | Calculator Logger | 2025-02-14 10:24:19,530 | 35| Result: 5.0 INFO | Calculator Logger | 2025-02-14 10:24:19,530 | 36| 2.0 + 3.0 = 5.0INFO | Calculator Logger | 2025-02-14 10:24:49,967 | 12| Arguments: 5-3 
+INFO | Calculator Logger | 2025-02-14 10:24:49,967 | 35| Result: 2.0  
+INFO | Calculator Logger | 2025-02-14 10:24:49,967 | 36| 5.0 - 3.0 = 2.0 
+INFO | Calculator Logger | 2025-02-14 10:25:07,486 | 12| Arguments: 5**3 
+INFO | calculator_logger | 2025-02-14 11:55:21,603 | 14 | Arguments: 5**3
