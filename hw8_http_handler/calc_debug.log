@@ -1,0 +1,3 @@
+INFO | calculator_logger | 2025-02-17 13:48:09,565 | 15 | Arguments: 5**3 
+INFO | calculator_logger | 2025-02-17 13:50:56,711 | 15 | Arguments: 5**3 
+INFO | calculator_logger | 2025-02-17 14:02:34,189 | 15 | Arguments: 5**3 

@@ -1,0 +1,3 @@
+ERROR | calculator_logger | 2025-02-17 12:28:18,655 | 30 | Error while converting number 2. Код ошибки - could not convert string to float: '*' 
+ERROR | calculator_logger | 2025-02-17 12:31:04,686 | 30 | Error while converting number 2. Код ошибки - could not convert string to float: '*' 
+ERROR | calculator_logger | 2025-02-17 12:32:02,054 | 30 | Error while converting number 2. Код ошибки - could not convert string to float: '*' 
